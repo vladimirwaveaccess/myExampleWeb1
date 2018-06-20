@@ -2,7 +2,6 @@ package com.it.Helpers;
 
 import com.it.Pages.LoginPage;
 import com.it.Utils.Users.User;
-import org.apache.log4j.Logger;
 
 public class LoginHelper extends LoginPage {
 
